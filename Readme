@@ -1,0 +1,7 @@
+Structure:
+kaggle:(folder)
+    -> data -> finetune.h5
+    karras2019stylegan-ffhq-1024x1024.pkl
+    shape_predictor_68_face_landmarks.dat
+    vgg16_weights_tf_dim_ordering_tf_kernels_notop.h5
+    vgg16_zhang_perceptual.pkl
