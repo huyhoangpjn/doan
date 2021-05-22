@@ -5,3 +5,4 @@ kaggle:(folder)
     shape_predictor_68_face_landmarks.dat
     vgg16_weights_tf_dim_ordering_tf_kernels_notop.h5
     vgg16_zhang_perceptual.pkl
+****If you use Google Colab, dont need to download cudnn
